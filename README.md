@@ -1,3 +1,3 @@
-# SilverAkdeniz_Asp.Net
-
-http://akdenizsilver.gearhostpreview.com
+# Akdeniz Silver Asp.Net
+  C#, Html, CSS, Javascript, MSSQL used
+  http://akdenizsilver.gearhostpreview.com
